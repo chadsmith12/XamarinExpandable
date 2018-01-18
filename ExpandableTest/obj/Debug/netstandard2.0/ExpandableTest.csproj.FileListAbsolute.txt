@@ -1,0 +1,11 @@
+C:\XamarinProjects\ExpandableTest\ExpandableTest\bin\Debug\netstandard2.0\ExpandableTest.deps.json
+C:\XamarinProjects\ExpandableTest\ExpandableTest\bin\Debug\netstandard2.0\ExpandableTest.dll
+C:\XamarinProjects\ExpandableTest\ExpandableTest\bin\Debug\netstandard2.0\ExpandableTest.pdb
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.csproj.CoreCompileInputs.cache
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.App.xaml.g.cs
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.MainPage.xaml.g.cs
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.AssemblyInfoInputs.cache
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.AssemblyInfo.cs
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.dll
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.pdb
+C:\XamarinProjects\ExpandableTest\ExpandableTest\obj\Debug\netstandard2.0\ExpandableTest.csprojResolveAssemblyReference.cache
